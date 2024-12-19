@@ -1,0 +1,7 @@
+apiVersion: v2
+kubeVersion: ">= 1.27.0-0"
+annotations:
+  charts.openshift.io/name: AI Software Template Gitops
+description: A Helm chart containing all the gitops resources required for the AI Software Templates project.
+name: ai-lab-gitops
+version: 0.1.0
